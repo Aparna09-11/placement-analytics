@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/placement-analytics/static/css/main.3ae2cdd3.css",
+    "main.js": "/placement-analytics/static/js/main.fbd5e812.js",
+    "static/js/453.965d13fe.chunk.js": "/placement-analytics/static/js/453.965d13fe.chunk.js",
+    "static/media/triangles-1430105_1280.webp": "/placement-analytics/static/media/triangles-1430105_1280.57639a929598883ea0a6.webp",
+    "static/media/final_logo_shaligram.jpg": "/placement-analytics/static/media/final_logo_shaligram.80f97ed8ce7c968e5e45.jpg",
+    "index.html": "/placement-analytics/index.html",
+    "main.3ae2cdd3.css.map": "/placement-analytics/static/css/main.3ae2cdd3.css.map",
+    "main.fbd5e812.js.map": "/placement-analytics/static/js/main.fbd5e812.js.map",
+    "453.965d13fe.chunk.js.map": "/placement-analytics/static/js/453.965d13fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae2cdd3.css",
+    "static/js/main.fbd5e812.js"
+  ]
+}

@@ -144,41 +144,41 @@ address {
     background-color: #530353;
 }
 .contact-info {
-    display: flex; /* Use flexbox to arrange items in a row */
-    justify-content: space-between; /* Space items evenly */
+    display: flex; 
+    justify-content: space-between; 
     margin-top: 20px;
     text-align: center; 
     margin-bottom: 20px;
   }
   
   .contact-item {
-    flex: 1; /* Allow each item to grow equally */
-    margin: 0 10px; /* Add some horizontal margin */
+    flex: 1; 
+    margin: 0 10px;
   }
   
   .contact-item h2 {
-    font-size: 1.2rem; /* Adjust heading size */
+    font-size: 1.2rem; 
   }
   
   .contact-item address {
-    font-style: normal; /* Reset font style for address */
+    font-style: normal;
     margin-top: 10px;
   }
   
   .contact-item p {
-    margin: 0; /* Remove default margin */
+    margin: 0; 
   }
   
-  /* Responsive adjustments */
+  
   @media (max-width: 768px) {
     .contact-info {
-      flex-direction: column; /* Stack items vertically on smaller screens */
-      align-items: center; /* Center items */
+      flex-direction: column; 
+      align-items: center; 
     }
   
     .contact-item {
-      margin: 10px 0; /* Add vertical margin */
-      width: 80%; /* Set a width for better control */
+      margin: 10px 0; 
+      width: 80%; 
     }
   }
 

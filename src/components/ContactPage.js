@@ -3,10 +3,10 @@ import { useNavigate } from 'react-router-dom';
 import './ContactPage.css';
 
 const ContactPage = () => {
-    const navigate = useNavigate(); // Initialize useNavigate
+    const navigate = useNavigate(); 
 
     const handleBack = () => {
-      navigate(-1); // Navigate back to the previous page
+      navigate(-1); 
     };
   return (
     <div className='main'>

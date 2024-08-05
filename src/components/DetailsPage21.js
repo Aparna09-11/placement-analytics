@@ -22,10 +22,10 @@ const DetailsPage21 = () => {
     { company: 'Company B', packages: [{ student: 'Ivan', package: '9.5 LPA' }, { student: 'Judy', package: '8.5 LPA' }] },
   ];
 
-  const companies = year === '2020' ? companies2020 : companies2021; // Select the appropriate company data based on the year
+  const companies = year === '2020' ? companies2020 : companies2021; 
 
   const handleBackClick = () => {
-    navigate(-1); // Go back to the previous page
+    navigate(-1); 
   };
 
   return (
